@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b9943e-cf24-4371-8947-403af7b89325" name="Changes" comment="Задание #2. Сравнение объектов">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/HttpMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/LogEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/UserAgent.java" afterDir="false" />
+    <list default="true" id="b0b9943e-cf24-4371-8947-403af7b89325" name="Changes" comment="Задание #3. Введение в ООП">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/LineTooLongException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/LineTooLongException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/LogEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/LogEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/Statistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/UserAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/UserAgent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743441169866</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Задание #3. Введение в ООП">
+      <option name="closed" value="true" />
+      <created>1743972457456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743972457456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задание #1. Обработка исключений_2" />
     <MESSAGE value="Задание #2. Сравнение объектов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задание #2. Сравнение объектов" />
+    <MESSAGE value="Задание #3. Введение в ООП" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание #3. Введение в ООП" />
   </component>
 </project>
