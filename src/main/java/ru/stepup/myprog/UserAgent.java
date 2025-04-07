@@ -1,7 +1,6 @@
 package ru.stepup.myprog;
 
 import java.util.Arrays;
-
 import static java.util.Collections.replaceAll;
 
 
@@ -50,15 +49,19 @@ public class UserAgent {
             this.operatingSystem = OperatingSystem.OTHER.toString();
             this.browser = Browser.OTHER.toString();
         }
+
     }
 
     public String getOperatingSystem() {
         return operatingSystem;
     }
+    public String getBrowser(){
+        return browser;
+    }
 }
 
 enum Browser {
-    CHROME("Google Chrome"), EDGE("Microsoft Edge"), SAFARI("Safari"), OPERA("Opera"), FIREFOX("Mozilla Firefox"), OTHER("Other browser");
+    CHROME("Google Chrome"), EDGE("Microsoft Edge"), SAFARI("Safari"), OPERA("Opera"), FIREFOX("Mozilla Firefox"), OTHER("Other browsers");
 
     private String title;
 
