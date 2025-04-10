@@ -3,10 +3,10 @@ package ru.stepup.myprog;
 import java.util.Arrays;
 import static java.util.Collections.replaceAll;
 
-
 public class UserAgent {
     private String operatingSystem;
     private String browser;
+    private boolean isBot;
 
     public UserAgent(String userAgent) {
         String[] parts = userAgent.split(";");
@@ -44,6 +44,9 @@ public class UserAgent {
                     break;
                 }
                 this.browser = Browser.OTHER.toString();
+                if (s.toLowerCase().contains("bot")) {
+                    isBot = true;
+                } else isBot = false;
             }
         } else {
             this.operatingSystem = OperatingSystem.OTHER.toString();
@@ -55,7 +58,12 @@ public class UserAgent {
     public String getOperatingSystem() {
         return operatingSystem;
     }
-    public String getBrowser(){
+
+    public boolean isBot() {
+        return isBot;
+    }
+
+    public String getBrowser() {
         return browser;
     }
 }

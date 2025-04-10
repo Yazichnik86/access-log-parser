@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b9943e-cf24-4371-8947-403af7b89325" name="Changes" comment="Курсовой проект. Задание #1 по теме &quot;Collections&quot;">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/LogEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/LogEntry.java" afterDir="false" />
+    <list default="true" id="b0b9943e-cf24-4371-8947-403af7b89325" name="Changes" comment="Курсовой проект. Задание #2 по теме &quot;Collections&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/Statistics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/UserAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepup/myprog/UserAgent.java" afterDir="false" />
     </list>
@@ -109,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744052847867</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Курсовой проект. Задание #2 по теме &quot;Collections&quot;">
+      <option name="closed" value="true" />
+      <created>1744054343806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744054343806</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +136,7 @@
     <MESSAGE value="Задание #2. Сравнение объектов" />
     <MESSAGE value="Задание #3. Введение в ООП" />
     <MESSAGE value="Курсовой проект. Задание #1 по теме &quot;Collections&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Курсовой проект. Задание #1 по теме &quot;Collections&quot;" />
+    <MESSAGE value="Курсовой проект. Задание #2 по теме &quot;Collections&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Курсовой проект. Задание #2 по теме &quot;Collections&quot;" />
   </component>
 </project>
